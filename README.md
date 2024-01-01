@@ -49,6 +49,8 @@ I am a Front-End as well as Back-End Developer <img src="https://media.giphy.com
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-tiwari0/)
 
+- 😄 Pronouns: She/Her
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
