@@ -51,6 +51,8 @@ I am a Front-End as well as Back-End Developer <img src="https://media.giphy.com
 
 - 😄 Pronouns: She/Her
 
+- Technical Writing 💻
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
