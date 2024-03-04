@@ -43,9 +43,9 @@ I am a Front-End as well as Back-End Developer <img src="https://media.giphy.com
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Explorin and Trying Technical Content Writing.
+- :seedling: Learning DSA, Exploring animation.
 
-- :zap: In my free time, I solve problems on FreeCodeCamp and read tech articles.
+- :zap: In my free time, I make 3D animations or models in blender.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-tiwari0/)
 
