@@ -45,7 +45,7 @@ I am a full-stack web developer and designer with strong expertise in front-end 
 
 - :seedling: Learning DSA, Exploring animation.
 
-- :zap: In my free time, I make 3D animations or models in blender.
+- :zap: In my free time, I do freeCodeCamping!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-tiwari0/)
 
