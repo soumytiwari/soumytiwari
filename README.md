@@ -41,7 +41,7 @@
 ### :woman_technologist: About Me :
 I am a full-stack web developer and designer with strong expertise in front-end and back-end development, as well as experience in relational database management systems (RDBMS), Express, Node.js, and API integration, etc. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineering student and contributing to frontend and backend for building web applications. I am a Full Stack Developer.
 
 - :seedling: Learning DSA, Exploring animation.
 
@@ -51,7 +51,7 @@ I am a full-stack web developer and designer with strong expertise in front-end 
 
 - 😄 Pronouns: She/Her
 
-- Technical Writing 💻
+- Technical Writing 💻 @medium 
 
 ---
 
