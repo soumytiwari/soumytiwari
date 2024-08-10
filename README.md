@@ -51,7 +51,7 @@ I am a full-stack web developer and designer with strong expertise in front-end 
 
 - 😄 Pronouns: She/Her
 
-- Technical Writing 💻 @medium 
+- Technical Writing and story/poem writing 💻 @medium 
 
 ---
 
@@ -106,7 +106,7 @@ I am a full-stack web developer and designer with strong expertise in front-end 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soumytiwari&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=soumytiwari&theme=merko&border_radius=500&card_width=700&card_height=350)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumytiwari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
