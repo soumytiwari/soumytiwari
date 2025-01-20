@@ -112,6 +112,26 @@ I am a full-stack web developer and designer with strong expertise in front-end 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumytiwari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumytiwari&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumytiwari&theme=tokyonight" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **soumytiwari/soumytiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
