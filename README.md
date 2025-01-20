@@ -110,12 +110,6 @@ I am a full-stack web developer and designer with strong expertise in front-end 
 [![GitHub Streak](https://streak-stats.demolab.com?user=soumytiwari&theme=merko&border_radius=500&card_width=700&card_height=350)](https://git.io/streak-stats)
 
 <p align="center">
-  
-</p>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumytiwari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-<p align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumytiwari&layout=compact&theme=vision-friendly-dark" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumytiwari&show_icons=true&theme=tokyonight" />
