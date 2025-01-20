@@ -107,13 +107,18 @@ I am a full-stack web developer and designer with strong expertise in front-end 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=soumytiwari&theme=merko&border_radius=500&card_width=700&card_height=350)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=soumytiwari&theme=merko&border_radius=500&card_width=700&card_height=350" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumytiwari&layout=compact&theme=vision-friendly-dark" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumytiwari&show_icons=true&theme=tokyonight" />
 </p>
+
 
 <!--START_SECTION:activity-->
 <!-- ![image](https://github.com/user-attachments/assets/f13e18fa-96a4-4512-8020-4d0c8090e572) See this image and understand and use it as needed. <gotta add that ./github/readme-update.yml whatever file for showing the update of that x-repo live and add the code section with needed tweaks (read-it)> -->
