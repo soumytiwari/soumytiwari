@@ -39,7 +39,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a full-stack web developer and designer with strong expertise in front-end and back-end development, as well as experience in relational database management systems (RDBMS), Express, Node.js, and API integration, etc. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in India.
 
 - :telescope: I'm a [Content Creator](https://youtube.com/@belugathing?si=wVAaqAFCTJ9ZB4ny), [Software Developer](https://soumytiwari.github.io/my-portfolio-site), [ML enthuisiast](https://www.kaggle.com/stukst), [Writer](https://medium.com/@tiwarisoumya111), and [Maker](https://nexa-cozy-craft-co.printify.me/products) 💻.
 
