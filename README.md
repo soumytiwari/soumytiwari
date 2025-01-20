@@ -28,7 +28,7 @@
 </div>
 
 <h1>
-  hey there
+  Hi there friends
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -41,17 +41,15 @@
 ### :woman_technologist: About Me :
 I am a full-stack web developer and designer with strong expertise in front-end and back-end development, as well as experience in relational database management systems (RDBMS), Express, Node.js, and API integration, etc. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineering student and contributing to frontend and backend for building web applications. I am a Full Stack Developer.
+- :telescope: I'm a [Content Creator](https://youtube.com/@belugathing?si=wVAaqAFCTJ9ZB4ny), [Software Developer](https://soumytiwari.github.io/my-portfolio-site), [ML enthuisiast](https://www.kaggle.com/stukst), [Writer](https://medium.com/@tiwarisoumya111), and [Maker](https://nexa-cozy-craft-co.printify.me/products) 💻.
 
-- :seedling: Learning DSA, Exploring animation.
+- :seedling: Learning DSA, Exploring animation, playing [freeCodeCamping](https://www.freecodecamp.org/fccdb74cb15-598c-48f4-b4fa-67a675ba97ef).
 
-- :zap: In my free time, I do freeCodeCamping!
+- :zap: In my free time, I like being bored, and playing outdoor games!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-tiwari0/)
 
 - 😄 Pronouns: She/Her
-
-- Technical Writing and story/poem writing 💻 @medium 
 
 ---
 
