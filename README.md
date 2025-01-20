@@ -55,9 +55,6 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 > Believe It!
 
 ---
-To organize the icons in a **table** for your GitHub profile README, and categorize them into **Tech** and **Tools**, you can use Markdown tables. Below is a restructured version of your original content:
-
----
 
 ## :hammer_and_wrench: Languages and Tools
 <div align="center">
