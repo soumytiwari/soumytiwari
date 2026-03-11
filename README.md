@@ -12,9 +12,9 @@
   <a href="https://medium.com/@tiwarisoumya111">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://twitter.com/SecretP04820808">
+  <!-- <a href="https://twitter.com/SecretP04820808">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/tiwarisoumya111/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -28,7 +28,7 @@
 </div>
 
 <h1>
-  Hi there friends
+  Hi there humans
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -39,13 +39,15 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in India.
+I am a CSE graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in India.
 
-- :telescope: I'm a [Content Creator](https://youtube.com/@belugathing?si=wVAaqAFCTJ9ZB4ny), [Software Developer](https://soumytiwari.github.io/my-portfolio-site), [ML enthuisiast](https://www.kaggle.com/stukst), [Writer](https://medium.com/@tiwarisoumya111), and [Maker](https://nexa-cozy-craft-co.printify.me/products) 💻.
+- :telescope: I'm a [Software Developer](https://soumytiwari.github.io/my-portfolio-site), **Linux enthusiast**, [Writer](https://medium.com/@tiwarisoumya111), and [Maker](https://nexa-cozy-craft-co.printify.me/products), [Programmer](https://leetcode.com/u/Yasashi/)💻.
 
-- :seedling: Learning DSA, Exploring animation, playing [freeCodeCamping](https://www.freecodecamp.org/fccdb74cb15-598c-48f4-b4fa-67a675ba97ef).
+- :thinking: Other interest: System Engineering and Backend, Art, Open Source Contrubution, Coding, Game Dev.
 
-- :zap: In my free time, I like being bored, and playing outdoor games!
+- :seedling: Learning [DSA](https://leetcode.com/u/Yasashi/), playing [freeCodeCamping](https://www.freecodecamp.org/fccdb74cb15-598c-48f4-b4fa-67a675ba97ef).
+
+- :zap: In my free time, I like being bored, and playing outdoor games or COD. I also prefer exploring more ways to learn and implement!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-tiwari0/)
 
