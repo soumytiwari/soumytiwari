@@ -43,7 +43,7 @@ I am a CSE graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :telescope: I'm a [Software Developer](https://soumytiwari.github.io/my-portfolio-site), **Linux enthusiast**, [Writer](https://medium.com/@tiwarisoumya111), and [Maker](https://nexa-cozy-craft-co.printify.me/products), [Programmer](https://leetcode.com/u/Yasashi/)💻.
 
-- :thinking: Other interest: _System Engineering_, _Backend_, Art, _Open Source_ Contrubution, simply _Coding_, Enjoying _De:bug:ging_, _Game Dev_.
+- :thinking: Other interest: _System Engineering_, _Backend_, Art, _Open Source_ Contrubution, simply _Coding_, Enjoying _De_:bug:_ging_, _Game Dev_.
 
 - :seedling: Learning [DSA](https://leetcode.com/u/Yasashi/), playing [freeCodeCamping](https://www.freecodecamp.org/fccdb74cb15-598c-48f4-b4fa-67a675ba97ef).
 
