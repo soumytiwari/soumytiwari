@@ -43,15 +43,15 @@ I am a CSE graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :telescope: I'm a [Software Developer](https://soumytiwari.github.io/my-portfolio-site), **Linux enthusiast**, [Writer](https://medium.com/@tiwarisoumya111), and [Maker](https://nexa-cozy-craft-co.printify.me/products), [Programmer](https://leetcode.com/u/Yasashi/)💻.
 
-- :thinking: Other interest: System Engineering and Backend, Art, Open Source Contrubution, Coding, Game Dev.
+- :thinking: Other interest: _System Engineering_, _Backend_, Art, _Open Source_ Contrubution, simply _Coding_, Enjoying _De:bug:ging_, _Game Dev_.
 
 - :seedling: Learning [DSA](https://leetcode.com/u/Yasashi/), playing [freeCodeCamping](https://www.freecodecamp.org/fccdb74cb15-598c-48f4-b4fa-67a675ba97ef).
 
-- :zap: In my free time, I like being bored, and playing outdoor games or COD. I also prefer exploring more ways to learn and implement!
+- :zap: In my free time, I like being bored, and playing **outdoor games** or **COD**. I also prefer exploring more ways to learn and implement and most important **sleeping**!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-tiwari0/)
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Goddess
 
 > ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFiaDNzYjY0b3VpOW51OXRvcmI4MDF1eTUzaHQxNnd4ZHRkeDFiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif)
 > Believe It!
